@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "version": "0.3.1",
+    "utc-unixnano": 1745447119508917629,
+    "links": [
+      {
+        "link": "downloads/0.3.1/M45-Relay-Client-Linux-0.3.1.zip",
+        "sha256": "af1850d7096a126ffb43a7096e6a0d350d0c376028fe297744c31f54ef0002c2"
+      },
+      {
+        "link": "downloads/0.3.1/M45-Relay-Client-Mac-0.3.1.zip",
+        "sha256": "88ae1a6542b50942b784f3e22151fda748df0b71a1a901473770520fed53d68c"
+      },
+      {
+        "link": "downloads/0.3.1/M45-Relay-Client-Win-0.3.1.zip",
+        "sha256": "b9916f397ffc168e5739efbb7dbb18758ef94b841120fd93deb41087004550e5"
+      }
+    ]
+  },
+  {
+    "version": "0.3.2",
+    "utc-unixnano": 1749449832097631239,
+    "links": [
+      {
+        "link": "downloads/0.3.2/M45-Relay-Client-Linux-0.3.2.zip",
+        "sha256": "913b191e5eb0e04178a442f7acd5c79087ea1c1395851b19d51126e821be7573"
+      },
+      {
+        "link": "downloads/0.3.2/M45-Relay-Client-Mac-0.3.2.zip",
+        "sha256": "783ca1f8328f8ec04ac2bf715ef397007d58df1f1d55d48eac43dbdeb45100f9"
+      },
+      {
+        "link": "downloads/0.3.2/M45-Relay-Client-Win-0.3.2.zip",
+        "sha256": "a0a57050dc38b03337642d13f9a65553515fc023c4010b4a97e9247d3f8a0d0b"
+      }
+    ]
+  }
+]
