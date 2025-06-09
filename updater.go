@@ -41,7 +41,7 @@ func main() {
 	hostPort := flag.String("host", "host.ext", "SSH host[:port]")
 	user := flag.String("user", "user", "SSH username")
 	remoteDir := flag.String("remote-dir", "/home/user/www/public_html", "remote directory")
-	jsonName := flag.String("json", "RelayClient.json", "name of JSON file")
+	jsonName := flag.String("json", "relayClient.json", "name of JSON file")
 	flag.Parse()
 
 	// ensure local release-dir exists
