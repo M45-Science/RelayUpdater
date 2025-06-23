@@ -34,5 +34,23 @@
         "sha256": "a0a57050dc38b03337642d13f9a65553515fc023c4010b4a97e9247d3f8a0d0b"
       }
     ]
+  },
+  {
+    "version": "0.3.3",
+    "utc-unixnano": 1750647951080988909,
+    "links": [
+      {
+        "link": "downloads/0.3.3/M45-Relay-Client-Linux-0.3.3.zip",
+        "sha256": "f1ddd4f65cdc4d3eb783f6dd53368363c078f6eb107bd6584404c5e4450316e8"
+      },
+      {
+        "link": "downloads/0.3.3/M45-Relay-Client-Mac-0.3.3.zip",
+        "sha256": "a1bf9b077bea567aa63d6f5c3d19f0d07610c710e8729cbfa9491d7fe200312e"
+      },
+      {
+        "link": "downloads/0.3.3/M45-Relay-Client-Win-0.3.3.zip",
+        "sha256": "32dccc79831c01a8cba610489d70b0a521166c3d6a1f330769a52e23f1aa52a3"
+      }
+    ]
   }
 ]
