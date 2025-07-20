@@ -52,5 +52,41 @@
         "sha256": "32dccc79831c01a8cba610489d70b0a521166c3d6a1f330769a52e23f1aa52a3"
       }
     ]
+  },
+  {
+    "version": "0.3.4",
+    "utc-unixnano": 1753042608085683175,
+    "links": [
+      {
+        "link": "downloads/0.3.4/M45-Relay-Client-Linux-0.3.4.zip",
+        "sha256": "b2423afa62f2e0b2611e71eb3f2adbf7122922ad86217d498abc0ef1a7c36b95"
+      },
+      {
+        "link": "downloads/0.3.4/M45-Relay-Client-Mac-0.3.4.zip",
+        "sha256": "161719e8b7d33cbff9c32a1c75db0dc6e9eb423f4ef08d18f049e4d61a777e09"
+      },
+      {
+        "link": "downloads/0.3.4/M45-Relay-Client-Win-0.3.4.zip",
+        "sha256": "c93e79182fa014a324ed9d638a007391ec78fd5ccf0983248f90c2b7dc23de61"
+      }
+    ]
+  },
+  {
+    "version": "0.3.5",
+    "utc-unixnano": 1753042701783985353,
+    "links": [
+      {
+        "link": "downloads/0.3.5/M45-Relay-Client-Linux-0.3.5.zip",
+        "sha256": "c5e876775d7952d908f6625d049c29b7e8ab97802c172a0f59a525b202a2e425"
+      },
+      {
+        "link": "downloads/0.3.5/M45-Relay-Client-Mac-0.3.5.zip",
+        "sha256": "847fe3e59f650da03d29e5276018861b10f836acbae7e2a97d9f060c99d27438"
+      },
+      {
+        "link": "downloads/0.3.5/M45-Relay-Client-Win-0.3.5.zip",
+        "sha256": "edb6dc7616d435260d77655dafec048438cf1d0a9fd9f32f4705f799f4201571"
+      }
+    ]
   }
 ]
