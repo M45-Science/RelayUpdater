@@ -36,7 +36,7 @@ type Entry struct {
 
 func main() {
 	dryRun := flag.Bool("dry-run", false, "do not upload via ssh (testing)")
-	srcDir := flag.String("src-dir", "../relayClient", "directory to scan for .zip files")
+	srcDir := flag.String("src-dir", "../RelayClient", "directory to scan for .zip files")
 	manualVer := flag.String("version", "", "manually specify new version (format a.b.c)")
 	hostPort := flag.String("host", "host.ext", "SSH host[:port]")
 	user := flag.String("user", "user", "SSH username")
@@ -324,7 +324,7 @@ func upsertEntry(entries []Entry, newEntry Entry) []Entry {
 }
 
 func RunBuildAll(version string) error {
-	script := "../relayClient/build/build-all.sh"
+	script := "../RelayClient/build/build-all.sh"
 
 	// verify the script exists
 	if _, err := os.Stat(script); err != nil {
